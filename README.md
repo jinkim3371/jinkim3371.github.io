@@ -1,2 +1,2 @@
-# jinkim3371.github.io\
+# jinkim3371.github.io
 Hello world!
